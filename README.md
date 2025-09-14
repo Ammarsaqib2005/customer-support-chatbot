@@ -1,6 +1,6 @@
 # customer-support-chatbot
 
-# Intelligent Customer Support Chatbot
+Intelligent Customer Support Chatbot
 
 In today’s digital-first world, customer support is a crucial aspect of any business. As customer bases grow and expectations for quick and effective service increase, traditional customer support systems are struggling to keep up. Human agents often face limitations in terms of availability, speed, and consistency—leading to long wait times, repetitive questions, and overall dissatisfaction for users.
 
